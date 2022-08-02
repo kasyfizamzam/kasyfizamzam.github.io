@@ -33,3 +33,5 @@ remote_theme: niklasbuschmann/contrast
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+mathjax: true
