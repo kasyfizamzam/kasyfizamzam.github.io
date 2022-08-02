@@ -28,5 +28,8 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+remote_theme: niklasbuschmann/contrast
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
